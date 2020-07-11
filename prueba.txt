@@ -1,7 +1,7 @@
-Proyecto uno duro y seguro
+Esta es la historia de Alejandro Gonzalez
 
-Bla bla bla
+Alejandro Gonzalez tiene 29 años
 
-Archivo de prueba
+Nació en Colombia y vive en Villavicenci - Meta
 
-clase Git & GitHub
+Hoy hablé de mi historia.
