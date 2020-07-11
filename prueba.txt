@@ -7,3 +7,5 @@ Nació en Colombia y vive en Villavicenci - Meta
 Hoy hablé de mi historia.
 
 Es un buen musico empirico.
+
+Hoy esta formandose como el mejor desarrolador Backend de la historia
