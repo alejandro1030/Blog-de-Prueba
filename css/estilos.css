@@ -1,0 +1,22 @@
+body
+{
+    border: 0px;
+}
+
+h1
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+h2
+{
+    text-align: center;
+}
+
+p
+{
+    font-size: 2em;
+    text-justify: distribute;
+    text-align: justify;
+}
