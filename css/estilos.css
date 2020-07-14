@@ -12,6 +12,7 @@ header
 
 section
 {
+    background-color: #A9FFCB;
     border: 2px #A9FFCB solid;
     border-radius: 20px;
     padding: 5px;
@@ -19,6 +20,7 @@ section
 
 article
 {
+    background-color: rgba(133, 255, 194, 0.603);
     border: 2px #E2E8DD solid;
     border-radius: 17px;
 }
