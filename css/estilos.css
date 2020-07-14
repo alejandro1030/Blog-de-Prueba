@@ -1,6 +1,26 @@
 body
 {
     border: 0px;
+    padding: 0px;
+}
+
+header
+{
+    border: 2px mediumorchid solid;
+    border-radius: 20px;
+}
+
+section
+{
+    border: 2px #A9FFCB solid;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+article
+{
+    border: 2px #E2E8DD solid;
+    border-radius: 17px;
 }
 
 h1
